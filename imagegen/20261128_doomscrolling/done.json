@@ -1,0 +1,24 @@
+{
+  "finished_at": "2026-11-28T12:53:48",
+  "model": "gpt-image-2",
+  "quality": "high",
+  "files": [
+    "Main.png",
+    "S2.png",
+    "S3.png"
+  ],
+  "failed": [
+    {
+      "file": "S4.png",
+      "error": "(429) You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/."
+    },
+    {
+      "file": "S5.png",
+      "error": "(429) You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/."
+    },
+    {
+      "file": "S6.png",
+      "error": "(429) You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/."
+    }
+  ]
+}
